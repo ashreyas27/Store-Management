@@ -1,0 +1,19 @@
+Set-up process for this Project-
+
+1. Download and install XAMPP, if u don't have.
+2. Locate htdocs file in XAMPP Folder which will be in C drive.
+3. Delete all the files from htdocs.
+4. Copy these files into htdocs folder.
+5. Start the XAMPP Server control panel.
+6. Start Apache and Mysql server.
+7. If u have not changed the mysql username and password then just open 'localhost/onetime.php' in browser.
+8. If username and password is changed then please change the password and username in onetime.php and dbcon.php files and then open the same address in browser.
+9. If everything works fine then no error will appear and u will see a blank screen after opening the address.
+10. Then simply open the localhost in browser.
+11. Login screen will appear. Username and Password is there in onetime.php.
+Username-rockergang
+Password-957628
+12. Now u can enjoy our website.
+
+
+--------------------------Thanks--------------------------------------------
